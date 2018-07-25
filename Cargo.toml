@@ -1,0 +1,5 @@
+[package]
+name = "ccli"
+version = "0.0.1"
+[dependencies]
+cardano = { path = "cardano-deps/cardano" }
